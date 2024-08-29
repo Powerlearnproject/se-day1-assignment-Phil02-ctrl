@@ -4,7 +4,7 @@ Software Engineering Day1 Assignment
 
 #Part 1: Introduction to Software Engineering
 
-#Explain what software engineering is and discuss its importance in the technology industry.
+# Explain what software engineering is and discuss its importance in the technology industry.
 
 Software engineering is a field of engineering focused on the systematic design, development, testing and maintenance of software applications and systems.
 
@@ -21,7 +21,7 @@ Software engineering is a field of engineering focused on the systematic design,
   5. Innovation and Competitiveness: The disciplined approach of software engineering fosters innovation by providing frameworks and best practices that drive the development ofnew and advanced software 
      technologies.
 
-#Identify and describe at least three key milestones in the evolution of software engineering.
+# Identify and describe at least three key milestones in the evolution of software engineering.
 
 1. The Development of the First High-level Programming Languages: Early computiing involved machine code and assembly languages, which wer cumbersome and error-prone. The creation of high-level programming languages like Fortran (1957) and COBOL (1959) significantly advanced software engineering by abstracting hardware details allowing for more efficient and understandable code development.
 
@@ -30,7 +30,7 @@ Software engineering is a field of engineering focused on the systematic design,
 3. The Agile Manifesto and Agile Methodologies: The Agile manifesto, published in (2001), marked a major shift in software development. It introduced principles focusing on itirative development, customer 
    collaboration and flexibility in reponse to change. Agile methodologies such as Scrum and Kanbanprioritized adaptive planning and continuous delivery, significantly improving the project management and team collaboration.
 
-#List and briefly explain the phases of the Software Development Life Cycle.
+# List and briefly explain the phases of the Software Development Life Cycle.
 
 1. Requrements gathering and analysis: This phase involves collecting and documenting what users need from the sooftware. It includes understanding user requirements, business goals and project constraints.
 
@@ -46,7 +46,7 @@ Software engineering is a field of engineering focused on the systematic design,
 
 7. Maintenance: This involves fixing bugs, making updates and ensuring the software continues to meet user needs and adapt to any changes.
 
-#Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+# Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
 **Waterfall Methodologies**
 
@@ -70,7 +70,7 @@ Appropriate Scenarios:
 
 **Agile Methodology**
 
-Characteristics:
+**Characteristics:**
 
 1. Iterative and incremental: The project is devided into small, manageable iteration producing a potentially shippable product increment.
 
@@ -81,7 +81,7 @@ Characteristics:
 4. Adaptive: Emphasizes adaptability and continuous improvement with regular reviews and retrospectives.
 
 
-Appropriate Scenarios:
+**Appropriate Scenarios:**
 
 1. Evolving requirements: Projects where requirements are expected to change or evolve over time such as developing a new consumer app with frequent updates based on user feedback.
 
@@ -99,7 +99,7 @@ Appropriate Scenarios:
 
 4. Risk Management: Agile manages risks through itiretive progress and frequent reviews while waterfall manages risks through extensive planning and documentation upfront.
 
-#Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+# Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
 **Roles and Responsibilities of a Software Developer**
     
@@ -143,7 +143,7 @@ Appropriate Scenarios:
     
     7. Project planning: Defining project scope, objectives, deliverables, timelines and resource requirements.
 
-#Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+# Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
 **Intergrated Development Environments importance**
 
@@ -165,11 +165,12 @@ Appropriate Scenarios:
 
 5. Code review and quality: They enable code review processes by allowing teams to review changes before thet are intergrated into the main project. Platforms like Github enhance this by providing pull request and code review tools.
 
-#What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+# What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 
 1. Communication and Collaboration:
       Challenge: Effective communication is crucial for teams success but can be challenging
-      Strategy: Foster open communication channels and use collaboration tools like slack and Microsoft Teams. Regularly schedule meetings and encourage team members to share feedback and updates.
+      Strategy: Foster open communication channels and use collaboration tools like slack and Microsoft Teams. Regularly 
+      schedule meetings and encourage team members to share feedback and updates.
 
 2. Balancing work and life:
       Challenge: Software engineering can be demanding, leading to burn out.
@@ -183,7 +184,7 @@ Appropriate Scenarios:
        Challenge: Maintaining high code quality and avoiding bugs.
        Strategy: Implement rigorous code review processes and adopt automated testing tools like unit test and integration tests.
   
-#Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+# Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 
 1. Unit testing: It involves testing individual components or functions of the software in isolation. The goal is to validate that each unit performs as expected. It helps catch issues early in development ensuring that each part of the code works correctly before it is intergrated with other parts. This makes debugging easier and more efficient.
 
@@ -196,7 +197,7 @@ Appropriate Scenarios:
 #Part 2: Introduction to AI and Prompt Engineering
 
 
-#Define prompt engineering and discuss its importance in interacting with AI models.
+# Define prompt engineering and discuss its importance in interacting with AI models.
 
 Prompt engineering is the process of designing and refining the inputs given to an AI model to elicit the most relevant and accurate responses. 
 
@@ -212,7 +213,7 @@ Prompt engineering is the process of designing and refining the inputs given to 
 
 5. Use experience: Good prompt engineering enhances the overall user experiences by making interactions with the AI model more intuitive and satisfying.
 
-#Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+# Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 
 Vague prompt: "Tell me about programing languages." 
 
